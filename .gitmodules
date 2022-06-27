@@ -1,0 +1,24 @@
+[submodule "modules/PAPU"]
+	path = modules/PAPU
+	url = git@github.com:FigBug/PAPU.git
+[submodule "modules/SID"]
+	path = modules/SID
+	url = git@github.com:FigBug/SID.git
+[submodule "modules/Organ"]
+	path = modules/Organ
+	url = git@github.com:FigBug/Organ.git
+[submodule "modules/Voc"]
+	path = modules/Voc
+	url = git@github.com:FigBug/Voc.git
+[submodule "modules/SN76489"]
+	path = modules/SN76489
+	url = git@github.com:FigBug/SN76489.git
+[submodule "modules/RP2A03"]
+	path = modules/RP2A03
+	url = git@github.com:FigBug/RP2A03.git
+[submodule "modules/slPlugins"]
+	path = modules/slPlugins
+	url = git@github.com:FigBug/slPlugins.git
+[submodule "modules/mverb"]
+	path = modules/mverb
+	url = git@github.com:FigBug/mverb.git
