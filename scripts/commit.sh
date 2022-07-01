@@ -10,7 +10,7 @@ cat plugins.txt | while read PLUGIN; do
 
   cd "$ROOT/modules/$PLUGIN"
   git add -A
-  git commit --message "Enable LV2"
+  git commit --message "Add LV2 for Linux"
   git push
 
 done
