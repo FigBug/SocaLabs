@@ -10,7 +10,7 @@ cat plugins.txt | while read PLUGIN; do
 
   cd "$ROOT/modules/$PLUGIN"
   git add -A
-  git commit --message "Fix LV2 uri"
+  git commit --message "fix jucer"
   git push
 
 done
