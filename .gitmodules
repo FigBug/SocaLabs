@@ -25,3 +25,6 @@
 [submodule "modules/LoserPorts"]
 	path = modules/LoserPorts
 	url = git@github.com:FigBug/LoserPorts.git
+[submodule "modules/Piano"]
+	path = modules/Piano
+	url = git@github.com:FigBug/Piano.git
