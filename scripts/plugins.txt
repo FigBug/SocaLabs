@@ -7,3 +7,4 @@ Voc
 mverb
 slPlugins
 LoserPorts
+Piano
