@@ -28,3 +28,6 @@
 [submodule "modules/Piano"]
 	path = modules/Piano
 	url = git@github.com:FigBug/Piano.git
+[submodule "modules/Wavetable"]
+	path = modules/Wavetable
+	url = https://github.com/FigBug/Wavetable.git
