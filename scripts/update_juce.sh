@@ -19,7 +19,7 @@ cat plugins.txt | while read PLUGIN; do
 
   cd "$ROOT/modules/$PLUGIN/modules/juce"
   git reset --hard
-  git checkout develop
+  git checkout master
   git pull
   cd ../..
   git add -A
