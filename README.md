@@ -60,7 +60,7 @@ This repo just holds all my other plugins in submodules so they are all in one p
 
 [Code](https://github.com/FigBug/Wavetable)
 
-![Build Windows](https://github.com/FigBug/Wavetable/workflows/Build%20Windows/badge.svg "Build Windows") ![Build macOS](https://github.com/FigBug/Wavetable/workflows/Build%20macOS/badge.svg "Build macOS") ![Build Linux](https://github.com/FigBug/Wavetable/workflows/Build%20Linux/badge.svg "Build Linux")
+![Build](https://github.com/FigBug/Wavetable/workflows/Build/badge.svg)
 
 **slPlugins**
 
