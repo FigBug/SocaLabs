@@ -22,9 +22,6 @@
 [submodule "modules/mverb"]
 	path = modules/mverb
 	url = git@github.com:FigBug/mverb.git
-[submodule "modules/LoserPorts"]
-	path = modules/LoserPorts
-	url = git@github.com:FigBug/LoserPorts.git
 [submodule "modules/Piano"]
 	path = modules/Piano
 	url = git@github.com:FigBug/Piano.git
